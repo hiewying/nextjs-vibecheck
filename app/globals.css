@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.textGradient{
+    background:  -webkit-linear-gradient(hsl(266, 21%, 19%), rgb(112, 112, 213));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.textGradientVibing{
+    background:  -webkit-linear-gradient(hsl(132, 92%, 60%), rgb(37, 181, 85));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.textGradientSurviving{
+    background:  -webkit-linear-gradient(hsl(348, 92%, 53%), rgb(143, 52, 67));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.purpleShadow{
+    box-shadow: 3px 3px 1px 1px lavender;
+}
+
+.purpleShadow:hover{
+    transform: translateX(3px, 3px);
+    box-shadow: 0px 0px 1px 1px lavender;
+}
