@@ -1,7 +1,8 @@
 # VibeCheck App using Next.js, Tailwind CSS and Firebase
 
  <!-- VIBECHECK email: test@test.com / password: 123456 -->
- 
+ ![img](https://github.com/user-attachments/assets/9087d599-34e6-48eb-a220-fd6dd274e641)
+
 **To set up and run the project locally, please follow these steps:**
 1. Install Tailwind CSS with Next.js guide: [Here](https://tailwindcss.com/docs/guides/nextjs)
 2. Add the Firebase environment variables to the `.env` file:<br/>
@@ -18,7 +19,7 @@
   npm install
   npm install firebase
   ```
-3. Start the development server by running:<br/>
+4. Start the development server by running:<br/>
   ```
   npm run dev
   ```
